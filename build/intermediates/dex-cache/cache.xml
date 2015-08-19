@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Program Files\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Xabertum\AndroidStudioProjects\ChatClientBotStarter\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-624d36cd9484d1fb5a695d384ae122a71665b1f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xabertum\AndroidStudioProjects\ChatClientBotStarter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Xabertum\AndroidStudioProjects\ChatClientBotStarter\app\build\intermediates\pre-dexed\debug\classes-9abc445609facb1b82890135a5919fc920912193.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xabertum\AndroidStudioProjects\ChatClientBotStarter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Xabertum\AndroidStudioProjects\ChatClientBotStarter\app\build\intermediates\pre-dexed\debug\classes-153c450395b3184563757d85510e6cc13be4e710.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xabertum\AndroidStudioProjects\ChatClientBotStarter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Xabertum\AndroidStudioProjects\ChatClientBotStarter\app\build\intermediates\pre-dexed\debug\classes-7d65e60dd2d5db63d3db18b49d0adf709320e4e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xabertum\AndroidStudioProjects\ChatClientBotStarter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Xabertum\AndroidStudioProjects\ChatClientBotStarter\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-6ca6676e1eb20f083e0876765a9fd1100b57f31a.jar" />
+    </item>
+
+</items>
